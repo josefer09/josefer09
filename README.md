@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="/public/perfil.png" alt="Fernando profile picture" width="200" style="border-radius: 150px;"/>
+  <img src="/public/perfil.png" alt="fernando profile picture" width="200" style="border-radius: 150px;"/>
 </p>
 <h1 align="center"> Hola, mi nombre es Fernando Hernandez 👋 </h1>
 
@@ -22,4 +22,20 @@ Las siguientes tecnologías forman parte de mi stack de trabajo:
 
 
 ## 🌐 Redes Sociales:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jos%C3%A9-fernando-hernandez-angulo-7862882b9/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jos%C3%A9-fernando-hernandez-angulo-7862882b9/)
+
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_ophion)
+
+
+<h2 align="center">Contacto y apoyo</h2>
+
+## ¿Te gustaría darme feedback?
+
+Siempre estoy dispuesto a aprender cosas nuevas, a mejorar y reforzar mi conocimiento y habilidades, te invito a dejarme algún feedback en mi correo de contacto o en alguna de mis redes sociales sobre mi portafolio o alguno de mis proyectos, esto me ayuda a seguir creciendo en mi vida profesional y poder adquirir nuevas habilidades.
+
+
+[contacto](https://www.linkedin.com/in/jos%C3%A9-fernando-hernandez-angulo-7862882b9/)
+
+<p align="center">
+  <img src="/public/portada.jpg" alt="banner" height="250" width="600""/>
+</p>
