@@ -21,15 +21,15 @@ The following technologies are part of my working stack:
 ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)  ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ## Some Projects
+-React Project Expense Planner (ContextAPI, useReducer, Custom Hooks & MORE!): [Demo!💰✨](https://66545bc37d713970f949f8c0--rococo-cobbler-315c95.netlify.app/) or [Repository](https://github.com/josefer09/expense_planner.git)
+
 -FullStack Project Veterinary Patient Manager (MERN): [Repository](https://github.com/josefer09/FullStack_Veterinaria.git)
 
 -FullStack Project Dental Clinic (API REST): [Repository](https://github.com/josefer09/consultorio_dental.git)
 
 -Backend Project (API REST With Clean Architecture): [Repository](https://github.com/josefer09/REST_API_CleanArchitecture.git)
 
--React Project (Calorie Tracker): [Demo](https://harmonious-mochi-831d67.netlify.app/) or [Repository](https://github.com/josefer09/calorie_tracker.git)
-
--React Project (Restaurant Menu): [Demo](https://poetic-heliotrope-3fae31.netlify.app/) or [Repository](https://github.com/josefer09/restaurant_menu)
+-React Project (Restaurant Menu): [Demo!🍴](https://poetic-heliotrope-3fae31.netlify.app/) or [Repository](https://github.com/josefer09/restaurant_menu)
 
 
 
