@@ -20,6 +20,10 @@ The following technologies are part of my working stack:
 
 ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)  ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
+## Experience
+### Up Task, Full Stack Project (MERN & More): [Repository](https://github.com/josefer09/UpTask_FullStack) & [Demo](https://uptask-frontend-ten.vercel.app)
+Up Task is a task management application, designed to function as a Kanban board, allowing users to create, organize, and track their tasks efficiently. Developed with React, Zod, React Query, Express, Node.js, TypeScript, MongoDB, and Tailwind CSS, the application demonstrates a strong grasp of both front-end and back-end technologies.
+
 ## Some Projects
 -React Project Expense Planner (ContextAPI, useReducer, Custom Hooks & MORE!): [Demo!💰✨](https://66545bc37d713970f949f8c0--rococo-cobbler-315c95.netlify.app/) or [Repository](https://github.com/josefer09/expense_planner.git)
 
