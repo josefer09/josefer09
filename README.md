@@ -22,7 +22,12 @@ The following technologies are part of my working stack:
 
 ## Experience
 ### Up Task, Full Stack Project (MERN & More): [Repository](https://github.com/josefer09/UpTask_FullStack) & [Demo](https://uptask-frontend-ten.vercel.app)
+<div align="center">
+  <img src="./public/logo_dark.png" alt="logo" width="280" height="120">
+</div>
 Up Task is a task management application, designed to function as a Kanban board, allowing users to create, organize, and track their tasks efficiently. Developed with React, Zod, React Query, Express, Node.js, TypeScript, MongoDB, and Tailwind CSS, the application demonstrates a strong grasp of both front-end and back-end technologies.
+
+[![My Skills](https://skillicons.dev/icons?i=ts,react,express,tailwind,mongodb,nodejs)](https://skillicons.dev) & More!
 
 ## Some Projects
 -React Project Expense Planner (ContextAPI, useReducer, Custom Hooks & MORE!): [Demo!💰✨](https://66545bc37d713970f949f8c0--rococo-cobbler-315c95.netlify.app/) or [Repository](https://github.com/josefer09/expense_planner.git)
