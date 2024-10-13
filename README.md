@@ -43,7 +43,7 @@ Up Task is a task management application, designed to function as a Kanban board
 
 
 ## 🌐 Social Networks:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jos%C3%A9-fernando-hernandez-angulo-7862882b9/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jose-fernando-hernandez-angulo-7862882b9?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BpgGFbU%2B5TjyFKPaJrNNvfg%3D%3D) 
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_ophion)
 
