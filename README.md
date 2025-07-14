@@ -3,8 +3,7 @@
 </p>
 <h1 align="center"> Hi, I am Fernando Hernandez 👋 </h1>
 
-## Software Engineering Student
-I am a software engineering student in my 8th semester.
+## Software Engineer
 
 I am a full-stack developer, passionate about software development, and currently, I am reinforcing my skills in web development, focusing on the backend side. I am learning and strengthening my knowledge and skills in the following technologies: ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
 
