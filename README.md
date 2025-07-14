@@ -77,6 +77,32 @@ UpTask is a fullstack project designed as a task board where users can register,
 
 ---
 
+## 🧱 New Project: Nest-Up (Starter Template)
+
+### 🔗 [Repository](https://github.com/josefer09/Nest-Up)
+
+A robust and scalable starter project built with **NestJS**, ready to kickstart modern backend applications following clean architecture principles and best practices.
+
+<p align="center">
+  <a href="http://nestjs.com/" target="blank">
+    <img src="https://nestjs.com/img/logo-small.svg" width="120" alt="Nest Logo" />
+  </a>
+</p>
+
+**Key Features:**
+- Modular architecture
+- SOLID principles
+- Dependency Injection with Adapter Pattern
+- Swagger API documentation
+- Docker + PostgreSQL
+- Global Exception Handling
+- Email service (optional)
+- Seeder route for development
+
+This template accelerates backend development by eliminating repetitive setup tasks 🚀
+
+---
+
 ## 📚 Other Projects
 
 - 💸 **Expense Planner** – React (ContextAPI, Reducer, Custom Hooks): [Demo](https://66545bc37d713970f949f8c0--rococo-cobbler-315c95.netlify.app) | [Repo](https://github.com/josefer09/expense_planner.git)
